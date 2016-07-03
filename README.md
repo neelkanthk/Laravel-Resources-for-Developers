@@ -15,3 +15,7 @@ http://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
 
 #####5. Dynamically resizing images in Laravel
 http://blog.nedex.io/dynamic-thumbnail-image-compression-on-laravel-5/
+
+https://www.daniweb.com/programming/web-development/threads/168654/compare-multi-dimensional-arrays-and-return-they-keys-who-s-values-are-different
+
+http://stackoverflow.com/questions/18770591/get-added-removed-changed-key-value-pairs-between-two-arrays
